@@ -1,0 +1,6 @@
+langchain
+openai
+qdrant-client
+unstructured
+pypdf
+opencv-python
